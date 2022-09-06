@@ -1,2 +1,1 @@
-# NSSH_Sophomore_C
-Prepare TQC
+# TQC C語言
