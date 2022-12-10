@@ -1,3 +1,4 @@
+// 奇偶判斷
 #include <stdio.h>
 int main() {
     int a;

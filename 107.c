@@ -1,3 +1,4 @@
+// 輸出靠邊
 #include <stdio.h>
 int main() {
     int a,b,c,e,d,f;

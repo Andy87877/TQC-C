@@ -1,3 +1,4 @@
+// 基礎判斷
 #include <stdio.h>
 int main() {
     int a,b,c;
